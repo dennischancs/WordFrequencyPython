@@ -21,42 +21,43 @@ def wordListToFreqDict(wordlist):
     return dict(zip(wordlist,wordfreq))
 
 # Combine all wordslist text files into one and convert to lowercase.
-filenames = ['WordLists/Kaplan.txt','WordLists/Magoosh.txt','WordLists/Manhattan.txt','WordLists/Barrons.txt','WordLists/Princeton.txt','WordLists/Majortest.txt']
-with open('CombinedAllWords.txt', 'w') as outfile:
+filenames = ['WordLists/其它/公开课.txt','WordLists/其它/英语辅导.txt','WordLists/其它/其他.txt']
+with open('CombinedAllWords.txt', 'w', encoding='utf8') as outfile:
     for fname in filenames:
-        with open(fname, encoding="ISO-8859-1") as infile:
+        # with open(fname, encoding="ISO-8859-1") as infile:
+        with open(fname, encoding='utf8') as infile:
             for line in infile:
                 line = line.lower()
                 outfile.write(line)
 
 # Open combined wordlist, remove definations and format words
-with open("CombinedAllWords.txt") as f:
+with open("CombinedAllWords.txt", encoding='utf8') as f:
     items = f.readlines()
     combined_vocab = items
     combined_vocab = list(map(lambda items: items.strip(), combined_vocab))
     for i, w in enumerate(combined_vocab):
-        combined_vocab[i]=w.split(":", 1)[0]
+        combined_vocab[i]=w.split("@", 1)[0]
 
 # my custom code to create a super dictionary
 combined_map = defaultdict(list)
-with open("CombinedAllWords.txt") as f:
+with open("CombinedAllWords.txt", encoding='utf8') as f:
     for line in f:
         line = line.strip()
-        splitted =  line.split(':')
+        splitted =  line.split('@')
         if len(splitted) > 1:
             word, meaning = splitted[0], splitted[1]
             combined_map[word].append(meaning)
 
 
 #Open file and write sorted dictionary values into text file one by one in decreasing order
-with open("output/words.txt","w") as f:
+with open("output/words.txt","w", encoding='utf8') as f:
 # for key, value in sorted(wordListToFreqDict(t).items(), key=lambda k,v: (v,k), reverse =True):
     for key, value in sorted(wordListToFreqDict(combined_vocab).items(), key=lambda x: (x[1], x[0]), reverse =True):
         # l.write(" \n%s: %s" % (key, value))
         word = key
         freq = value
         meaning = combined_map[word]
-        f.write("{}[{}]: {}\n".format(key, value, meaning))
+        f.write("{}[{}]@ {}\n".format(key, value, meaning))
 
 counter = Counter([v for k, v in wordListToFreqDict(combined_vocab).items()])
 
@@ -69,12 +70,12 @@ for word, frequency in sorted(wordListToFreqDict(combined_vocab).items(), key=la
 
 for frequency in jsonmap:
     wordmap = jsonmap[frequency]
-    with open("output/{}.json".format(frequency), 'w') as f:
+    with open("output/{}.json".format(frequency), 'w', encoding='utf8') as f:
         json.dump(wordmap, f, indent=4)
 
 
 # dump as HTML with some shitty formatting
-with open("output/words.html","w") as f:
+with open("output/words.html","w", encoding='utf8') as f:
     html = "<!DOCTYPE html>\n<head>{}</head>\n<body>\n{}</body>\n</html>"
 
     # add a metadata about occurence of each type
