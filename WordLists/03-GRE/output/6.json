@@ -1,0 +1,858 @@
+{
+    "zenith": [
+        " n. \u9876\u70b9\uff0c\u5929\u9876\uff0c\u5168\u76db",
+        "the time at which something is most powerful or successful",
+        "the point of culmination; peak",
+        "highest point",
+        "summit",
+        "(n) high point, culmination"
+    ],
+    "whimsical": [
+        " adj. \u5fc3\u60c5\u6d6e\u52a8\u7684, \u53cd\u8986\u65e0\u5e38\u7684, \u53e4\u602a\u7684",
+        "determined by chance or impulse rather than by necessity",
+        "lightly acting in a fanciful or capricious manner; unpredictable",
+        "determined by impulse or whim rather than by necessity or reason",
+        "capricious; changeable",
+        "(adj) marked or motivated by whims (odd, fanciful ideas); erratic, unpredictable"
+    ],
+    "vituperate": [
+        " v. \u75db\u65a5, \u8fb1\u9a82",
+        "to abuse verbally; berate",
+        "to abuse verbally; berate",
+        "spread negative information about",
+        "(v) verbally abuse, rebuke or criticize harshly",
+        "(verb) to use harsh condemnatory language; to abuse or censure severely or abusively; to berate"
+    ],
+    "umbrage": [
+        " n. \u9634\u5f71\uff0c\u4e0d\u5feb, \u6000\u7591, \u6028\u6068",
+        "a feeling of anger caused by being offended",
+        "offense; resentment",
+        "a feeling of anger caused by being offended",
+        "1. shadow; 2. offence; sense of injury; a feeling of anger caused by being offended",
+        "offense or annoyance (usually as take umbrage, meaning become offended or annoyed)"
+    ],
+    "tyro": [
+        " n. \u521d\u5b66\u8005, \u751f\u624b, \u65b0\u624b\\n=tiro",
+        "beginner; novice",
+        "beginner",
+        "novice; beginner",
+        "beginner",
+        "(noun) novice, greenhorn, rank amateur"
+    ],
+    "trenchant": [
+        " adj. \u9510\u5229\u7684, \u5c16\u523b\u7684, \u82db\u523b\u7684\uff0c\u6e05\u6670\u7684",
+        "having keenneess and forcefulness and penetration in thought",
+        "acute, sharp, or incisive; forceful; effective",
+        "effective, articulate, clear-cut;",
+        "forceful or vigorous, effective, keen; caustic, sharp",
+        "(adj.) shapely perceptive; keen; penetrating"
+    ],
+    "tortuous": [
+        " adj. \u5f2f\u66f2\u7684, \u66f2\u6298\u7684\uff0c\u8f6c\u5f2f\u62b9\u89d2\u7684",
+        "not straightforward; marked by repeated bends and turns",
+        "having many twists and turns, highly complex",
+        "indirect; winding",
+        "twisting, winding, complex; devious, not straightforward",
+        "(adj.) winding; twisting; extremely complicated"
+    ],
+    "tirade": [
+        " n. \u957f\u7bc7\u7684\u653b\u51fb\u6027\u6f14\u8bf4",
+        "long, harsh speech or verbal attack",
+        "an angry speech",
+        "stream of verbal abuse",
+        "(n) bitter, abusive criticism or verbal attack",
+        "(adj.) a long and extremely critical speech; a harsh denunciation"
+    ],
+    "timorous": [
+        " adj. \u80c6\u602f\u7684,\u80c6\u5c0f\u7684,\u7f9e\u602f\u7684",
+        "showing or suffering from nervousness or a lack of confidence; fearful",
+        "fearful",
+        "cowardly; fearful",
+        "(adj) fearful, timid",
+        "(adj.) timid, fearful, diffident"
+    ],
+    "tacit": [
+        " adj. \u5fc3\u7167\u4e0d\u5ba3\u7684",
+        "adj. \u7f04\u9ed8\u7684\uff0c\u5fc3\u7167\u4e0d\u5ba3\u7684",
+        "implied by or inferred from actions or statements",
+        "done without using words",
+        "(adj) understood without being said; implied, not stated directly; silent",
+        "(adj.) implied; not explicitly stated"
+    ],
+    "sycophant": [
+        " n. \u9a6c\u5c41\u7cbe",
+        "a self-serving flatterer; yes-man",
+        "a person who tries to please someone in order to gain a personal advantage",
+        "bootlicker; flatterer",
+        "(n) servile flatterer, parasitic person, one who fawns in order to get ahead",
+        "(noun) toady, servile, self seeking flatterer; parasite"
+    ],
+    "surfeit": [
+        " n. \u8fc7\u98df\uff0c\u8fc7\u91cf\\nv. \u66b4\u98df\uff0c\u8fc7\u5206\u6c89\u6eba",
+        "excessive amount of something; indulge (one's appetite) to satiety",
+        "excessive amount",
+        "excessive amount;",
+        "(n) excess, excessive amount, overindulgence",
+        "(verb) an overabundant supply; excess; to feed or supply to excess (noun <form>a surfeit of supplies)"
+    ],
+    "sporadic": [
+        " adj. \u4e0d\u5b9a\u65f6\u53d1\u751f\u7684, \u96f6\u661f\u7684",
+        "recurring in scattered or unpredictable instances",
+        "occasional, happening irregularly or in scattered locations",
+        "not continuous; intermittent",
+        "(adj) occasional, happening irregularly or in scattered locations",
+        "(adj.) occurring only occasionally, or in scattered instances"
+    ],
+    "specious": [
+        " adj. \u4f3c\u662f\u800c\u975e\u7684, \u534e\u800c\u4e0d\u5b9e\u7684",
+        "deceptively attractive; seemingly plausible but fallacious",
+        "seeming to be logical and sound, but not really so",
+        "false (note --- don't mix up with spacious)",
+        "(adj) seemingly true but actually false; deceptively attractive",
+        "(adj.) seeming true, but actually being fallacious; misleadingly attractive; plausible but false"
+    ],
+    "soporific": [
+        " adj. \u50ac\u7720\u7684, \u60f3\u7761\u7684\\nn. \u50ac\u7720\u5242",
+        "causing sleep or lethargy",
+        "causing sleep, sleepy, drowsy",
+        "inducing sleep",
+        "(adj, n) causing sleep; sleepy, drowsy (adj); something that causes sleep (noun)",
+        "(adj.) causing drowsiness; tending to induce sleep"
+    ],
+    "sinecure": [
+        " n. \u6302\u540d\u804c\u52a1\uff0c\u95f2\u5dee\u4e8b\\nn.",
+        "an office that involves minimal duties",
+        "a well-paying job or office that requires little or no work",
+        "an office that involves minimal duties",
+        "an office that involves minimal duties",
+        "a job or position that pays while requiring little or no work"
+    ],
+    "sanction": [
+        " n. \u6838\u51c6,\u5904\u7f5a,\u7ea6\u675f\u529b\\nv. \u5236\u5b9a\u5236\u88c1\u89c4\u5219,\u8ba4\u8bb8,\u6838\u51c6",
+        "official permission or approval",
+        "permission; support",
+        "give approval to",
+        "(n, v) permission or approval, something that gives support or authority to something else (noun); to allow, confirm, ratify (verb); or a legal action against another country to get it to comply (noun); to place sanctions or penalties on (verb)",
+        "(noun)/(verb) authoritative permission or approval; a penalty intended to enforce compliance"
+    ],
+    "salubrious": [
+        " adj. \u6709\u76ca\u5065\u5eb7\u7684",
+        "promoting health",
+        "healthful",
+        "healthful",
+        "(adj) healthful, promoting health",
+        "(adj.) promoting health or well-being"
+    ],
+    "sagacious": [
+        " adj. \u806a\u660e\u7684, \u777f\u667a\u7684",
+        "shrewd; wise",
+        "acutely insightful and wise",
+        "wise",
+        "(adj) wise; showing good judgment and foresight",
+        "(adj.) having sound judgement; perceptive, wise; like a sage"
+    ],
+    "rescind": [
+        " n. (rescission)\\nadj. \u9000\u8fd8, \u53d6\u6d88\\nv. \u5e9f\u9664, \u53d6\u6d88",
+        "v./n. \u5e9f\u6b62, \u4f7f\u65e0\u6548, \u53d6\u6d88, \u64a4\u6d88, \u89e3\u9664",
+        "annul, repeal make void",
+        "retract; repeal",
+        "(v) annul, repeal, make void",
+        "(verb) to invalidate; to repeal; to retract"
+    ],
+    "replete": [
+        " adj. \u9971\u6ee1\u7684, \u585e\u6ee1\u7684",
+        "filled to satisfaction with food or drink",
+        "abundantly supplied; complete",
+        "completely stocked or furnished with something",
+        "full",
+        "(adj) supplied in abundance, filled, gorged (used with with)"
+    ],
+    "relegate": [
+        " v. \u4f7f\u964d\u7ea7\uff0c\u6d41\u653e \uff0c\u79fb\u4ea4\uff0c\u59d4\u4efb",
+        "assign to a lower position",
+        "assign to a lower position",
+        "dismiss to a lower position",
+        "(v) send or commit to an inferior place, rank, condition, etc.; exile, banish; assign (a task) to someone else",
+        "(verb) to forcibly assign, especially to a lower place or position"
+    ],
+    "refute": [
+        " vt.\u9a73\u65a5\uff0c\u9a73\u5012\uff1b \u5426\u8ba4\u771f\u5b9e\u6027",
+        "overthrow by argument, evidence or proof; prove to be false",
+        "prove to be false",
+        "disprove",
+        "(v) prove to be false",
+        "(verb) to disprove; to successfully argue against"
+    ],
+    "redress": [
+        " n. \u8d54\u507f, \u6551\u6d4e, \u77eb\u6b63\\nv. \u7ea0\u6b63, \u5321\u6b63, \u9769\u9664",
+        "make reparations or amends for",
+        "relief from wrong or injury; the setting right of what is wrong",
+        "an act of making something right",
+        "compensate; put right something that was wrong",
+        "setting something right after a misdeed, compensation or relief for injury or wrongdoing (noun); correct, set right, remedy (verb)"
+    ],
+    "raconteur": [
+        " n. \u5584\u4e8e\u8bb2\u6545\u4e8b\u7684\u4eba",
+        "a person skilled in telling anecdotes",
+        "witty, skillful storyteller",
+        "a person skilled in telling anecdotes",
+        "story-teller",
+        "witty storyteller"
+    ],
+    "quotidian": [
+        " adj. \u6bcf\u65e5\u7684, \u5e73\u51e1\u7684\\nn. \u53f8\u7a7a\u89c1\u60ef\u7684\u4e8b\uff0c[\u533b]\u65e5\u53d1\u759f",
+        "occurring daily; commonplace",
+        "daily; everyday, ordinary",
+        "daily; routine",
+        "(adj) daily; everyday, ordinary",
+        "(adj.) occurring or recurring daily; commonplace"
+    ],
+    "quixotic": [
+        " adj. \u5510\u5409\u8bc3\u5fb7\u5f0f\u7684, \u72c2\u60f3\u5bb6\u7684",
+        "overly idealistic; impractical",
+        "overly idealistic; impractical",
+        "impractically idealistic",
+        "extremely impractical but very romantic, chivalrous, or idealistic; impulsive",
+        "(adj.) foolishly impractical; marked by lofty romantic ideals"
+    ],
+    "puerile": [
+        " adj. \u9752\u6625\u671f\u7684\uff0c\u5b69\u5b50\u6c14\u7684\uff0c\u672a\u6210\u719f\u7684",
+        "childish, immature, or silly",
+        "childish",
+        "childish",
+        "juvenile, immature",
+        "(adj.) childish, immature, jejune, nugatory"
+    ],
+    "propitiate": [
+        " vt. \u6170\u629a, \u5b89\u629a, \u548c\u89e3",
+        "to conciliate; to appease",
+        "to win over, appease",
+        "appease",
+        "attempt to reconcile with, satisfy, or reduce the animosity of (a person who is angry, offended, etc.)",
+        "(verb) to appease; to conciliate; propitious means auspicious, favorable"
+    ],
+    "profligate": [
+        " adj. \u653e\u8361\u7684, \u4e0d\u68c0\u70b9\u7684, \u6d6a\u8d39\u7684\\nn. \u653e\u8361\u8005, \u4eab\u4e50\u8005",
+        "unrestrained by convention or morality; wastefully extravagant",
+        "corrupt; degenerate",
+        "completely and shamelessly immoral, or extremely wasteful;",
+        "(adj) completely and shamelessly immoral, or extremely wasteful",
+        "(adj.) excessively wasteful; recklessly extravagant (noun <form>profligacy)"
+    ],
+    "prodigious": [
+        " adj. \u5de8\u5927\u7684,\u5947\u5f02\u7684\\nn. \u5947\u8ff9",
+        "so great in size or force or extent as to elicit awe",
+        "extraordinarily large, impressive, etc.",
+        "very large",
+        "(adj) extraordinarily large, impressive, etc.",
+        "(adj.) abundant in size, force, or extent; extraordinary"
+    ],
+    "prodigal": [
+        " adj. \u6325\u970d\u7684\uff0c(\u7269\u4ea7\u7b49)\u4e30\u5bcc\u7684\uff0c\u6177\u6168\u7684\\nn. \u6325\u970d\u8005",
+        "lavish; wasteful",
+        "wasteful, extravagant; giving abundantly, lavish;",
+        "wasteful; extravagant",
+        "(adj) wasteful, extravagant; giving abundantly, lavish",
+        "(adj.) recklessly wasteful; extravagant; profuse; lavish"
+    ],
+    "probity": [
+        " n. \u8bda\u5b9e, \u5ec9\u6d01, \u6b63\u76f4",
+        "complete honesty and integriity",
+        "honesty; high-mindness",
+        "uprightness; honesty",
+        "(n) honesty, integrity",
+        "(noun) adherence to highest principles; complete and confirmed integrity; uprightness"
+    ],
+    "pristine": [
+        " adj. \u8fdc\u53e4\u7684, \u539f\u59cb\u72b6\u6001\u7684, \u672a\u53d7\u635f\u7684, \u65b0\u9c9c\u800c\u7eaf\u51c0\u7684",
+        "fresh and clean; uncorrupted",
+        "unspoiled, untouched",
+        "unspoiled",
+        "(adj) in an original, pure state; uncorrupted",
+        "(adj.) pure; uncorrupted; clean"
+    ],
+    "plethora": [
+        " n. \u8fc7\u91cf, \u591a\u8840\u75c7",
+        "extreme excess",
+        "excess",
+        "an excess",
+        "excess; excessive amount",
+        "(noun) an overabundance; a surplus"
+    ],
+    "placate": [
+        " v. \u629a\u6170,\u548c\u89e3,\u6000\u67d4",
+        "to soothe or pacify",
+        "to soothe or pacify",
+        "pacify; soothe; calm",
+        "(v) satisfy or calm down (angry or dissatisfied person), esp. by conciliatory gestures",
+        "(verb) to appease or to pacify by making concessions; make someone less angry/hostile"
+    ],
+    "pith": [
+        " n. \u7cbe\u9ad3, \u8981\u70b9\uff0c\uff08\u6728\uff09\u9ad3\\nvt. \u53bb\u9ad3\uff0c\u7834\u574f\u810a\u9ad3",
+        "n. \u7cbe\u9ad3, \u8981\u70b9",
+        "the most essential part of somrthing",
+        "center; soft part of stem; essence",
+        "(n) core, essence; significance or weight",
+        "(noun) the essential or central part"
+    ],
+    "pine": [
+        " n. \u677e\u6811,\u677e\u6728\\nvi. \u6d88\u7626,\u6194\u60b4,\u6e34\u671b",
+        "vi. \u6d88\u7626, \u6194\u60b4, \u75db\u82e6, \u6000\u5ff5, \u6e34\u671b",
+        "have a desire for something or someone who is not present",
+        "1. type of evergreen tree; 2. grieve",
+        "(verb) to yearn intensely; to languish; to lose vigor",
+        "(verb) to lose vigor (as through grief); to yearn"
+    ],
+    "penury": [
+        " n. \u8d2b\u7a77\uff0c\u62ee\u636e",
+        "a state of extreme poverty or destitution",
+        "an oppressive lack of resource (as money); severe poverty",
+        "poverty",
+        "extreme poverty or scarcity",
+        "(noun) poverty; destitution"
+    ],
+    "pariah": [
+        " n. \u5357\u5370\u5ea6\u7684\u6700\u4e0b\u7ea7\u6c11, \u8d31\u6c11\uff0c\u88ab\u793e\u4f1a\u9057\u5f03\u8005",
+        "a person who is rejected from society or home; outcast",
+        "an outcast",
+        "a social outcast",
+        "an outcast from society",
+        "(n) social outcast, untouchable"
+    ],
+    "paragon": [
+        " n. \u6a21\u8303, \u5178\u578b\\nvt. \u4e0e...\u6bd4\u8f83\uff0c\u6bd4\u5f97\u4e0a",
+        "a perfect embodiment of a concept",
+        "model of excellence or perfection",
+        "a model of excellence or perfection",
+        "a perfect example",
+        "model of excellence, perfect example"
+    ],
+    "panegyric": [
+        " n. \u8d5e\u8f9e, \u5938\u5927\u7684\u9882\u8bcd",
+        "elaborate praise; formal hymn of praise",
+        "an expression of praise;",
+        "eulogy",
+        "formal or lofty expression of praise",
+        "(noun) formal praise, eulogy, encomium, panegyric means expressing elaborate praise"
+    ],
+    "opaque": [
+        " adj. \u4e0d\u900f\u660e\u7684, \u96be\u61c2\u7684",
+        "impossible to see through; preventing the passage of light",
+        "impossible to see through; preventing the passage of light",
+        "not clear",
+        "(adj) not translucent; not allowing light, hear, etc. to pass through; dark, dull, unclear or stupid",
+        "(adj.) impenetrable by light; not reflecting light"
+    ],
+    "obviate": [
+        " v. \u9664\u53bb,\u6392\u9664,\u56de\u907f",
+        "do away with",
+        "to prevent; to make unnecessary",
+        "avoid; make unnecessary",
+        "(v) prevent, eliminate, or make unnecessary",
+        "(verb) to anticipate and make unnecessary; to eliminate completely"
+    ],
+    "obdurate": [
+        " adj. \u56fa\u6267\u7684, \u987d\u56fa\u7684",
+        "hardened in feeling; resistant to persuasion",
+        "stubbornly refusing to change one's opinion or course of action",
+        "stubborn",
+        "stubborn, hardhearted, hardened in wrongdoing",
+        "(adj.) unyielding; hard hearted; intractable"
+    ],
+    "nuance": [
+        " n. (\u58f0\u97f3\u3001\u611f\u89c9\u3001\u5916\u8c8c\u6216\u610f\u4e49\u7b49\u65b9\u9762\u7684) \u7ec6\u5fae\u5dee\u522b",
+        "a subtle difference in meaning or opinion or attitude",
+        "a subtle expression of meaning or quality",
+        "something subtle; a fine shade of meaning",
+        "shade of difference in meaning or color, something subtle; a fine shade of meaning",
+        "(n) a subtle difference in tone, meaning, and expression"
+    ],
+    "noisome": [
+        " adj. \u6076\u81ed\u7684, \u4ee4\u4eba\u4e0d\u5feb\u7684\uff0c\u6709\u5bb3\u7684",
+        "causing or able to cause nausea; having an extremely bad smell",
+        "stinking; putrid",
+        "offensive, disgusting; harmful;",
+        "disgusting",
+        "offensive, disgusting; harmful"
+    ],
+    "nascent": [
+        " adj. \u53d1\u751f\u4e2d\u7684,\u5f00\u59cb\u5b58\u5728\u7684,\u521d\u671f\u7684",
+        "being born or beginning",
+        "starting to develop; coming into existence",
+        "emerging; newly formed",
+        "(adj) coming into existence, still developing",
+        "(adj.) coming into being; in early developmental stages"
+    ],
+    "mundane": [
+        " adj. \u4e16\u4fd7\u7684\uff0c\u5e73\u51e1\u7684\uff1b\u4e16\u754c\u7684\uff0c\u5b87\u5b99\u7684",
+        "found in the ordinary course of events",
+        "ordinary, common",
+        "ordinary; worldly",
+        "(adj) common, ordinary, everyday",
+        "(adj.) of the world; typical of or concerned with the ordinary"
+    ],
+    "mollify": [
+        " v. \u5b89\u6170,\u5b89\u629a\\nvt. \u4f7f\u5e73\u606f",
+        "cause to be more favorably inclined; make someone angry less angry",
+        "to calm or make less severe",
+        "calm or soothe (an angry person); lesson or soften",
+        "(v) calm or soothe (an angry person); lessen or soften",
+        "(verb) to calm or soothe; to reduce in emotional intensity"
+    ],
+    "mitigate": [
+        " v. \u9547\u9759,\u7f13\u548c,\u51cf\u8f7b\\nv. \u7f13\u548c",
+        "to soften; to lessen",
+        "make less severe; lesson or moderate (damage, grief, pain, etc.)",
+        "lessen; make less severe",
+        "(v) make less severe; lessen or moderate (damage, grief, pain, etc.)",
+        "(verb) to make or become less severe or intense; to moderate"
+    ],
+    "mercurial": [
+        " adj.\uff08\u6307\u4eba\uff09\u53cd\u590d\u65e0\u5e38\u7684\uff1b \u6c34\u94f6\u7684\uff1b \uff08\u6307\u4eba\u6216\u6027\u8d28\uff09\u7075\u6d3b\u7684\uff1b \u6613\u53d8\u7684",
+        "quick, shrewd, and unpredictable",
+        "quickly and unpredictably changing moods; fickle, flighty",
+        "volatile; changeable",
+        "(adj) quickly unpredictably changing moods; fickle, flighty",
+        "(adj.) characterized by rapid unpredictable change in mood"
+    ],
+    "maudlin": [
+        " adj. \u5bb9\u6613\u6d41\u6cea\u7684,\u611f\u4f24\u7684,\u9189\u540e\u597d\u54ed\u7684\\nn. \u6613\u6d41\u6cea",
+        "effusively or insincerely emotional",
+        "overly sentimental",
+        "excessively sentimental",
+        "sad; sentimental; inclined to weep",
+        "excessively sentimental, showing sadness or some other emotion in a foolish or silly way"
+    ],
+    "martinet": [
+        " n. \u8981\u6c42\u4e25\u683c\u670d\u4ece\u7eaa\u5f8b\u7684\u4eba",
+        "a strict disciplinarian; someone who demands exact conformity to rules and forms",
+        "strict disciplinarian; one who rigidly follows rules",
+        "a strict disciplinarian; a stickler for the rules",
+        "person who believes in strict discipline",
+        "person who adheres to rules extremely closely; strict disciplinarian"
+    ],
+    "lugubrious": [
+        " adj. \u53ef\u601c\u7684,\u60b2\u60e8\u7684,\u60b2\u54c0\u7684",
+        "excessively mournful",
+        "sorrowful; mournful; dismal",
+        "excessively mournful",
+        "sad; gloomy",
+        "mournful, gloomy (sometimes in an exaggerated way)"
+    ],
+    "lucid": [
+        " adj. \u660e\u767d\u6613\u61c2\u7684, \u6e05\u6670\u7684, \u795e\u667a\u6e05\u9192\u7684",
+        "clear and easily understood",
+        "transparently clear; easily understandable",
+        "clear",
+        "(adj) clear, easy to understand; rational, sane",
+        "(adj.) clear; easily understood"
+    ],
+    "lethargic": [
+        " adj. \u8fdf\u949d\u7684(\u4e0d\u6d3b\u6cfc\u7684,\u51b7\u6de1\u7684,\u56f0\u5026\u7684,\u660f\u7761\u7684)",
+        "deficient in alertness or activity",
+        "acting in an indifferent or slow, sluggish manner",
+        "lacking energy",
+        "tired; without energy",
+        "lazy, drowsy, or sluggish"
+    ],
+    "lampoon": [
+        " n. \u8bbd\u523a\u6587\u7ae0\\nv. \u8bbd\u523a\\nvt. \u5632\u8bbd",
+        "ridicule with satire",
+        "to ridicule with satire",
+        "a written satire used to ridicule or attack someone",
+        "ridicule; spoof",
+        "(n, v) a harsh satire (noun); ridicule or satirize (verb)"
+    ],
+    "itinerant": [
+        " adj. \u5de1\u56de\u7684\uff0c\u6d41\u52a8\u7684\\nn. \u5de1\u56de\u8005",
+        "travelling from place to place to work",
+        "wandering from place to place; unsettled",
+        "traveling from place to place, esp. as part of a job",
+        "nomadic; wandering from place to place",
+        "traveling from place to place, esp. as part of a job"
+    ],
+    "insipid": [
+        " adj. \u4e4f\u5473\u7684, \u67af\u71e5\u7684",
+        "lacking interest or flavor",
+        "dull and uninteresting",
+        "dull; bland; boring",
+        "dull, stale, lacking taste or interest",
+        "(adj.) lacking in qualities that interest, stimulate, or challenge"
+    ],
+    "impugn": [
+        " vt. \u8d23\u96be, \u62a8\u51fb, \u653b\u51fb",
+        "attack as false or wrong",
+        "to call into question; to attack verbally",
+        "to attack as false or questionable;",
+        "challenge; question someone's honor etc.",
+        "attack the truth or integrity of"
+    ],
+    "impetuous": [
+        " adj. \u51b2\u52a8\u7684, \u731b\u70c8\u7684, \u8f7b\u7387\u7684",
+        "characterized by undue haste and lack of thought",
+        "quick to act without thinking",
+        "rash, impulsive",
+        "passionately impulsive, marked by sudden, hasty emotion; forceful, violent",
+        "(adj.) impulsive; acting without thought; rash; hasty; reckless; heedless"
+    ],
+    "impecunious": [
+        " adj. \u6ca1\u6709\u94b1\u7684, \u8eab\u65e0\u5206\u6587\u7684, \u8d2b\u7a77\u7684",
+        "poor; having no money",
+        "lacking money; poor",
+        "having no money",
+        "poor, without money",
+        "(noun) lacking funds; without money"
+    ],
+    "hackneyed": [
+        " adj. \u4e0d\u65b0\u5947\u7684, \u5e38\u89c1\u7684, \u9648\u8150\u7684\\n\u52a8\u8bcdhackney\u7684\u8fc7\u53bb\u5f0f\u548c\u8fc7\u53bb\u5206\u8bcd\u5f62\u5f0f",
+        "adj. \u4f7f\u7528\u8fc7\u4e8e\u9891\u7e41\u7684, \u5e38\u89c1\u7684, \u9648\u8150\u7684",
+        "so commonplace as to be stale; not fresh or original",
+        "common and over-used",
+        "(adj) so commonplace as to be stale; not fresh or original",
+        "(adj.) rendered trite or commonplace by frequent usage."
+    ],
+    "germane": [
+        " adj. \u6709\u5bc6\u5207\u5173\u7cfb\u7684,\u9002\u5207\u7684,\u5240\u5207\u7684",
+        "relevant and appropriate",
+        "relevant and appropriate, on-topic",
+        "relevant and appropriate",
+        "(adj) relevant and appropriate, on topic",
+        "(adj.) relevant to the subject at hand; appropriate in subject matter"
+    ],
+    "fortuitous": [
+        " adj. \u5076\u7136\u7684, \u610f\u5916\u7684\uff0c\u5e78\u8fd0\u7684",
+        "occurring by a happy chance",
+        "happening by chance; fortunate",
+        "happening by chance; lucky",
+        "happening by chance",
+        "(adj.) happening by accident or chance"
+    ],
+    "foment": [
+        " v.\u6311\u8d77\uff0c\u6fc0\u8d77\uff0c\u717d\u52a8\uff08\u4e8b\u7aef\u6216\u66b4\u529b\uff09",
+        "try to stir up",
+        "to arouse or incite",
+        "to arouse or incite",
+        "1. stir up; 2. bathe with hot liquids (medical)",
+        "(v) incite, instigate, stir up, promote the growth of; apply medicated liquid to a body part"
+    ],
+    "fatuous": [
+        " adj. \u611a\u6627\u7684, \u660f\u5eb8\u7684, \u53d1\u5446\u7684, \u611a\u7b28\u7684, \u81ea\u6ee1\u7684",
+        "devoid of intelligence",
+        "stupid; foolishly self-satisfied",
+        "silly; foolish",
+        "foolish, silly, esp. in a smug or complacent manner",
+        "(adj.) silly, inanely foolish"
+    ],
+    "facetious": [
+        " adj. \u8f7b\u6d6e\u7684, \u597d\u5f00\u73a9\u7b11\u7684",
+        "cleverly amusing in tone",
+        "cleverly amusing in tone",
+        "not intended to be taken seriously",
+        "(adj) joking, humorous, esp. inappropriately; not serious, concerned with frivolous things",
+        "(adj.) playful; humorous"
+    ],
+    "exonerate": [
+        " v. \u514d\u9664\u8d23\u4efb,\u786e\u5b9a\u65e0\u7f6a\\nvt. \u4f7f\u514d\u7f6a",
+        "pronounce not guilty of criminal charges",
+        "to clear of blame",
+        "clear from blame or accusation; free from a responsibility",
+        "clear from blame or accusation; free from a responsibility",
+        "(adj.) to remove blame"
+    ],
+    "exacerbate": [
+        " vt. \u52a0\u91cd(\u4f7f...\u6076\u5316, \u6fc0\u6012)",
+        "make worse",
+        "to make worse",
+        "make worse (more violent, severe), inflame; irritate or embitter (a person)",
+        "(v) make worse (more violent, severe, etc.), inflame; irritate or embitter (a person)",
+        "(verb) to make worse or more severe"
+    ],
+    "esoteric": [
+        " adj. \u79d8\u4f20\u7684\uff0c\u795e\u79d8\u7684\uff0c\u96be\u61c2\u7684",
+        "known or understood only by a few",
+        "intended for or understood by only a small group",
+        "obscure and difficult to understand",
+        "(adj) understood by or intended for only a few; secret",
+        "(adj.) intended for or understood by a small, specific group"
+    ],
+    "erudite": [
+        " adj. \u535a\u5b66\u7684",
+        "having or showing profound knowledge",
+        "learned; scholarly; bookish",
+        "scholarly, learned, bookish, pedantic",
+        "(adj) scholarly, knowledgeable; possessing a deep, often systematic, knowledge",
+        "(adj.) very learned, scholarly"
+    ],
+    "equivocate": [
+        " vi. \u8bf4\u6a21\u68f1\u4e24\u53ef\u7684\u8bdd\uff0c\u652f\u543e\u5176\u8bcd",
+        "to use expressions of double meaning in order to mislead",
+        "intentionally use vague language",
+        "speak ambiguously; avoid telling the truth",
+        "use unclear language to deceive or avoid committing to a position",
+        "(verb) to use ambiguous language with a deceptive intent (adj. <form>equivocal)"
+    ],
+    "ephemeral": [
+        " adj. \u671d\u751f\u66ae\u6b7b\u7684, \u751f\u547d\u77ed\u6682\u7684",
+        "lasting a short time",
+        "lasting a short time",
+        "short-lived",
+        "(adj) lasting only a short time, fleeting",
+        "(adj.) brief; fleeting"
+    ],
+    "enervate": [
+        " adj.\u65e0\u529b\u7684\uff0c\u8870\u5f31\u7684\\nvt. \u4f7f\u65e0\u529b\uff0c\u4f7f\u8870\u5f31",
+        "to reduce in strength",
+        "weaken, tire",
+        "weaken",
+        "(v) weaken, tire",
+        "(verb) to weaken; to reduce in vitality"
+    ],
+    "encomium": [
+        " n. \u8d5e\u9882, \u9882\u8f9e",
+        "a formal expression of praise",
+        "warm praise",
+        "praise",
+        "warm, glowing praise, esp. a formal expression of praise",
+        "(noun) glowing and enthusiastic praise; panegyric, tribute, eulogy"
+    ],
+    "emulate": [
+        " vt. \u6548\u6cd5, \u5c3d\u529b\u8d76\u4e0a, \u4eff\u771f\\n[\u8ba1\u7b97\u673a] \u4eff\u771f",
+        "strive to equal or match, especially by imitating",
+        "to copy; to try to equal or excel",
+        "strive to equal or match, especially by imitating; compete with successfully",
+        "to imitate something admired",
+        "(v) copy in an attempt to equal or be better than"
+    ],
+    "eclectic": [
+        " n. \u6298\u8877\u4e3b\u4e49\u8005, \u6298\u8877\u6d3e\u7684\u4eba\\nadj. \u9009\u62e9\u7684, \u6298\u8877\u7684",
+        "selecting from or made up from a variety of sources",
+        "selecting the best of everything or from many diverse sources",
+        "taking things from different sources",
+        "(adj) selecting the best of everything or from many diverse sources",
+        "(adj.) composed of elements drawn form various sources"
+    ],
+    "dupe": [
+        " n. \u53d7\u9a97\u7684\u4eba, \u4e0a\u5f53\u8005\\nvt. \u6b3a\u9a97, \u611a\u5f04",
+        "fool or hoax",
+        "to deceive; a person who is easily deceived",
+        "to deceive; a person who is easily deceived",
+        "to fool someone",
+        "person who is easily fooled or used (noun); to fool or exploit (verb)"
+    ],
+    "dissemble": [
+        " v. \u63a9\u9970, \u5047\u88c5\u4e0d\u77e5\u9053",
+        "to present a false appearance; to disguise one's real intentions or character",
+        "to present a false appearance; to disguise one's real intentions or character;",
+        "avoid the truth",
+        "mislead, conceal the truth, put on a false appearance of",
+        "(verb) to disguise or conceal; to mislead"
+    ],
+    "disparate": [
+        " adj. \u4e0d\u540c\u7684, \u5168\u5f02\u7684, \u4e56\u79bb\u7684",
+        "fundamentally different or distinct in quality or kind",
+        "fundamentally different; entirely unalike",
+        "two things are fundamentally different",
+        "distinct, different",
+        "(adj.)fundamentally distinct or dissimilar"
+    ],
+    "disabuse": [
+        " vt. \u89e3\u60d1, \u4f7f\u7701\u609f",
+        "to set right; free from error",
+        "to set right; to free from error",
+        "free somebody (from an erroneous belief)",
+        "(v) to show or convince (someone) that a belief is incorrect",
+        "(verb) to undeceive; to set right; to persuade someone that their belief is mistaken"
+    ],
+    "dilettante": [
+        " n. \u6d45\u8584\u6d89\u730e\u8005, \u4e1a\u4f59\u7231\u597d\u8005\uff0c\u827a\u672f\u7231\u597d\u8005\\nadj. \u6d45\u8584\u7684\uff0c\u4e1a\u4f59\u7684",
+        "an amateur engaging in an activity without serious intentions",
+        "someone with an amateurish or superficial interest in a topic",
+        "aimless follower of the arts; amateur; dabbler",
+        "person who takes up an art or activity for amusement only or in a superficial way",
+        "(noun) one w/ an amateurish or superficial interest in the arts or a branch of knowledge"
+    ],
+    "desultory": [
+        " adj. \u6563\u6f2b\u7684, \u65ad\u65ad\u7eed\u7eed\u7684, \u4e0d\u8fde\u8d2f\u7684",
+        "marked by lack of definite plan or regularity or purpose",
+        "jumping from one thing to another; disconnected",
+        "aimless; inconsistent in effort",
+        "lacking consistency or order, disconnected, sporadic; going off topic",
+        "(adj.) random; aimless; marked by a lack of plan or purpose"
+    ],
+    "deride": [
+        " vt. \u5632\u5f04, \u6316\u82e6",
+        "treat or speak of with contempt",
+        "to speak of or treat with contempt; to mock",
+        "treat or speak of with contempt",
+        "ridicule; make fun of; mock",
+        "(v) mock, scoff at, laugh at contemptuously"
+    ],
+    "deleterious": [
+        " adj. \u6709\u5bb3\u7684, \u6709\u6bd2\u7684",
+        "harmful to living things",
+        "subtly or unexpectedly harmful",
+        "harmful, injurious",
+        "harmful",
+        "(adj) harmful, unhealthy"
+    ],
+    "decorum": [
+        " n. \u7aef\u6b63, \u793c\u8c8c\u5408\u5b9c, \u793c\u4eea",
+        "propriety in manners and conduct",
+        "appropriateness of behavior or conduct; propriety",
+        "propriety in manners and conduct",
+        "propriety; correct behavior",
+        "(noun) polite or appropriate conduct or behavior (adj. <form>decorous)"
+    ],
+    "corroborate": [
+        " v. \u4f7f\u575a\u56fa,\u786e\u8bc1,\u7ed9\u786e\u8bc1\u4e0e...",
+        "give evidence for; to lend support",
+        "to support with evidence",
+        "to confirm or lend support to (usually an idea or claim)",
+        "give supporting evidence [corroboration (n)]",
+        "(v) support, add evidence to"
+    ],
+    "connoisseur": [
+        " n. \u9274\u8bc6\u5bb6, \u9274\u5b9a\u5bb6, \u5185\u884c",
+        "an expert able to appreciate a field",
+        "a person with expert knowledge or discriminating tastes",
+        "person with refined taste and good judgment",
+        "(n) expert, especially in the fine arts; person of educated, refined tastes",
+        "(noun) an informed and astute judge in matters of taste; expert"
+    ],
+    "chicanery": [
+        " n. \u6b3a\u8bc8, \u6b3a\u9a97",
+        "the use of tricks to deceive someone",
+        "deception by means of craft or guile",
+        "trickery",
+        "trickery, deception by knowingly false arguments",
+        "(noun) trickery or subterfuge"
+    ],
+    "caustic": [
+        " adj. \u8150\u8680\u6027\u7684, \u523b\u8584\u7684\uff0c[\u7269]\u7126\u6563\u7684\\nn. \u8150\u8680\u7269\uff0c[\u7269]\u7126\u6563\u66f2\u9762",
+        "harsh in tone",
+        "biting in wit",
+        "burning",
+        "(adj) capable of corroding metal or burning the skin; very critical or sarcastic",
+        "(adj.) burning or stinging; causing corrosion"
+    ],
+    "castigate": [
+        " v. \u60e9\u7f5a,\u82db\u8bc4, \u60e9\u6cbb, \u4e25\u5389\u6279\u8bc4; \u8c34\u8d23",
+        "inflict severe punishment on",
+        "to punish or criticize harshly",
+        "criticize severely; punish in order to correct;",
+        "scold strongly",
+        "(v) criticize severely; punish in order to correct"
+    ],
+    "capricious": [
+        " adj. \u53d8\u5316\u65e0\u5e38\u7684, \u4efb\u6027\u7684",
+        "determined by chance or impulse rather than by necessity",
+        "changing one's mind quickly and often",
+        "impulsive and unpredictable",
+        "(adj) acting on impulse, erratic",
+        "(adj.) inclined to change one's mind compulsively; erratic, unpredictable"
+    ],
+    "candid": [
+        " adj. \u5fe0\u5b9e\u7684, \u7387\u76f4\u7684, \u5766\u8bda\u7684",
+        "openly straightforward and direct without secretiveness",
+        "impartial and honest in speech",
+        "a straightforward and honest look at something",
+        "frank; honest",
+        "(adj) open, sincere, honest"
+    ],
+    "cacophony": [
+        " n. \u523a\u8033\u7684\u58f0\u97f3\uff0c\u6742\u97f3",
+        "loud confusing disagreeable sounds",
+        "harsh, jarring noise",
+        "discordant loud noises",
+        "(n) harsh, discordant, or meaningless mixture of sounds",
+        "(noun) harsh, jarring, discordant, or meaningless mixture of sounds"
+    ],
+    "bolster": [
+        " n. \u957f\u6795,\u9760\u57ab\\nvt. \u652f\u6301,\u9f13\u52b1",
+        "to support; prop up",
+        "to support",
+        "support; prop up; reinforce",
+        "(v) strengthen or support",
+        "(verb) to provide support or reinforcement"
+    ],
+    "assuage": [
+        " vt. \u7f13\u548c, \u51cf\u8f7b, \u9547\u5b9a",
+        "to make something unpleasant less severe",
+        "to make something unpleasant less severe",
+        "to calm",
+        "(v) make milder, relieve; soothe, pacify, or calm",
+        "(verb) to ease or lessen; to appease or pacify"
+    ],
+    "asperity": [
+        " n. \u4e25\u9177\uff0c\u4e25\u5389\uff0c\u7c97\u66b4",
+        "harshness of manner",
+        "roughness or harshness; severity",
+        "using harsh or critical tone [aspertion]",
+        "rigor, severity; harshness or sharpness of tone; roughness of surface",
+        "(noun) severity, rigor; roughness, harshness; acrimony, irritability"
+    ],
+    "ascetic": [
+        " adj. \u7981\u6b32\u7684\\nn. \u82e6\u884c\u8005",
+        "someone who practices self denial as a spiritual discipline",
+        "one who practices self-denial",
+        "without luxuries; severely simple",
+        "(adj, n) abstinent or austere in lifestyle (adj); a person who leads an austere and simple like without material pleasures, esp. someone who does this for religious reasons",
+        "(noun) one who practices rigid self-denial, especially as an act of religious devotion"
+    ],
+    "arbitrary": [
+        " adj. \u4efb\u610f\u7684, \u4e13\u5236\u7684, \u6b66\u65ad\u7684, \u9738\u9053\u7684",
+        "based on random choice or personal whim, rather than any reason or system",
+        "determined by chance or impulse",
+        "based entirely on one's discretion; capricious, unreasonable, or having no basis",
+        "random; for no definite reason",
+        "(adj.)based entirely on one's discretion; capricious, unreasonable, or having no basis"
+    ],
+    "apostate": [
+        " n. \u80cc\u6559\u8005, \u53d8\u8282\u8005, \u8131\u515a\u8005\\nadj. \u80cc\u6559\u7684, \u53d8\u8282\u7684, \u8131\u515a\u7684",
+        "not faithful to religion or party or cause",
+        "one who renounces a religious faith",
+        "one who renounces a religious faith",
+        "person who deserts a party, cause, religion, etc.",
+        "(noun) one who abandons long-held religious or political conviction"
+    ],
+    "antipathy": [
+        " n. \u618e\u6076, \u53cd\u611f",
+        "a feeling of intense dislike",
+        "extreme dislike",
+        "strong dislike",
+        "hatred",
+        "(n.)deep dislike, aversion, or repugnance, somtimes without reason"
+    ],
+    "ameliorate": [
+        " vt. \u4f7f\u2026\u6539\u5584,\u6539\u826f\\nvi. \u6539\u5584,\u53d8\u597d",
+        "to make better",
+        "to make better; to improve",
+        "improve; make better or more bearable",
+        "make better",
+        "(verb) to make better or more tolerable"
+    ],
+    "ambiguous": [
+        " adj. \u6a21\u68f1\u4e24\u53ef\u7684",
+        "having more than one possible meaning",
+        "doubtful or uncertain; can be interpreted several ways",
+        "not clear, hard to understand, open to having several meanings or interpretations",
+        "unclear in meaning",
+        "(adj) not clear, hard to understand, open to having several meanings or interpretations"
+    ],
+    "aesthetic": [
+        " adj. \u7f8e\u5b66\u7684,\u5ba1\u7f8e\u7684,\u6709\u7f8e\u611f\u7684\\nn. (\u590d\u6570)\u5ba1\u7f8e\u89c2",
+        "concerning the appreciation of beauty",
+        "pertaining to beauty",
+        "concerning art of beauty",
+        "(adj, n) concerning the appreciation of beauty or good taste, pertaining to the science of what is beautiful (adj); a sense of beauty and taste of a particular time and place (noun)",
+        "(adj.) dealing with, appreciative of, or responsive to art or the beautiful"
+    ],
+    "abate": [
+        " v. \u7f13\u548c, \u51cf\u5f31",
+        "become less in amount or intensity",
+        "to reduce in amount, degree, or severity",
+        "reduce in intensity",
+        "(v) reduce, diminish",
+        "(verb) to lessen in intensity or degree"
+    ]
+}
