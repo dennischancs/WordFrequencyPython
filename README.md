@@ -1,3 +1,6 @@
+# 扇贝全库词频牌组
+词组来源：[dennischancs/getWordsFromShanbay: 用 Python 写的爬虫，能批量爬取扇贝网单词书、单词列表和单词。](https://github.com/dennischancs/getWordsFromShanbay)
+
 # WordFrequencyPython
 
 Python Code to find out most frequent words from famous GRE lists below.
