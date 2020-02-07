@@ -43,7 +43,7 @@
 3. 保留点击跳转到安卓欧路词典APP的功能。
 
 ---AnkiDroid+的效果图---
-
+<img src="./WordLists/%232Anki/ankidroid.jpg?raw=true" width="auto" height="200px">
 ![ankidroid](./WordLists/%232Anki/ankidroid.jpg?raw=true){:height="200px" width="auto"}
 
 # 学习方法
