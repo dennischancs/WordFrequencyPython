@@ -44,7 +44,7 @@
 
 ---AnkiDroid+的效果图---
 
-![ankidroid](./WordLists/%232Anki/ankidroid.jpg?raw=true)
+![ankidroid](./WordLists/%232Anki/ankidroid.jpg?raw=true){:height="200px" width="auto"}
 
 # 学习方法
 1. 以上就是anki要用的背词牌组；
