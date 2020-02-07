@@ -43,8 +43,8 @@
 3. 保留点击跳转到安卓欧路词典APP的功能。
 
 ---AnkiDroid+的效果图---
-<img src="./WordLists/%232Anki/ankidroid.jpg?raw=true" width="auto" height="200px">
-![ankidroid](./WordLists/%232Anki/ankidroid.jpg?raw=true){:height="200px" width="auto"}
+
+<img alt="ankidroid" src="./WordLists/%232Anki/ankidroid.jpg?raw=true" width="200px" height="auto">
 
 # 学习方法
 1. 以上就是anki要用的背词牌组；
