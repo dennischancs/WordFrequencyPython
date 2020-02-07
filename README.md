@@ -46,6 +46,8 @@
 
 <img alt="ankidroid" src="./WordLists/%232Anki/ankidroid.jpg?raw=true" width="200px" height="auto">
 
+注：使用[Antimoon模板](https://www.laohuang.net/20180108/antimoon-template-3/)。
+
 # 学习方法
 1. 以上就是anki要用的背词牌组；
 2. 先花3~5个月学习（参考[快，学会学习（十二）-我的故事 - BonXG · 学习型博客 | For you and me](https://bonxg.com/p/60.html)的方法，用Anki背的时候并抄写单词，抄在ipad pro的goodnotes上）习得到大量的被动词汇；
