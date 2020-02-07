@@ -4,10 +4,10 @@
 
 # 导入Anki
 1. WordFrequencyPython处理词频；
-2. 删除重复词义，只保留前3条词义（最终文件在`./WordLists/#2Anki/#v4可导入anki.7z`中）；
+2. 删除重复词义，只保留前3条词义（见`./WordLists/#2Anki/#v4可导入anki.7z`）；
 3. 导入anki，日学习数500，日复习数调成9999、复习间隔为36500；
 4. 用anki插件去重[Merge Duplicate Cards(合并重复卡片) - AnkiWeb](https://ankiweb.net/shared/info/608625159)
-5. 导出卡牌备份
+5. 导出卡牌备份（见`./WordLists/#2Anki/all_57568.apkg`）
 
 ---词汇量---
 三个大类（按统计频次排序），建议从频次高往下学习。
